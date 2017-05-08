@@ -1,0 +1,81 @@
+# depslib dependency file v1.0
+1478206809 source:c:\users\juan\desktop\tp picantovich fuerte\listachofer.cpp
+	<stdio.h>
+	<iostream>
+	<conio.h>
+	<cstring>
+	"listachofer.h"
+	"listavehi.h"
+
+1478224467 c:\users\juan\desktop\tp picantovich fuerte\listachofer.h
+	"listavehi.h"
+
+1478224467 c:\users\juan\desktop\tp picantovich fuerte\listavehi.h
+
+1478218559 source:c:\users\juan\desktop\tp picantovich fuerte\listafecha.cpp
+	<stdio.h>
+	<iostream>
+	<conio.h>
+	<cstring>
+	"listafecha.h"
+
+1478218476 c:\users\juan\desktop\tp picantovich fuerte\listafecha.h
+
+1478206809 source:c:\users\juan\desktop\tp picantovich fuerte\listavehi.cpp
+	<stdio.h>
+	<iostream>
+	<conio.h>
+	<cstring>
+	"listavehi.h"
+
+1478217896 source:c:\users\juan\desktop\tp picantovich fuerte\listaviajes.cpp
+	<stdio.h>
+	<iostream>
+	<conio.h>
+	<cstring>
+	"listaviajes.h"
+	"listafecha.h"
+
+1478217890 c:\users\juan\desktop\tp picantovich fuerte\listaviajes.h
+	"listafecha.h"
+
+1478206809 source:c:\users\juan\desktop\parciales primer año\algoritmos\tp final\listachofer.cpp
+	<stdio.h>
+	<iostream>
+	<conio.h>
+	<cstring>
+	"listachofer.h"
+	"listavehi.h"
+
+1478224467 c:\users\juan\desktop\parciales primer año\algoritmos\tp final\listachofer.h
+	"listavehi.h"
+
+1478224467 c:\users\juan\desktop\parciales primer año\algoritmos\tp final\listavehi.h
+
+1478218559 source:c:\users\juan\desktop\parciales primer año\algoritmos\tp final\listafecha.cpp
+	<stdio.h>
+	<iostream>
+	<conio.h>
+	<cstring>
+	"listafecha.h"
+
+1478218476 c:\users\juan\desktop\parciales primer año\algoritmos\tp final\listafecha.h
+
+1478206809 source:c:\users\juan\desktop\parciales primer año\algoritmos\tp final\listavehi.cpp
+	<stdio.h>
+	<iostream>
+	<conio.h>
+	<cstring>
+	"listavehi.h"
+
+1478217896 source:c:\users\juan\desktop\parciales primer año\algoritmos\tp final\listaviajes.cpp
+	<stdio.h>
+	<iostream>
+	<conio.h>
+	<cstring>
+	"listaviajes.h"
+	"listafecha.h"
+
+1478217890 c:\users\juan\desktop\parciales primer año\algoritmos\tp final\listaviajes.h
+	"listafecha.h"
+

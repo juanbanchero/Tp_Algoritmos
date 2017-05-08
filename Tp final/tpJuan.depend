@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1478206809 source:c:\users\user\desktop\tpjuan\listavehi.cpp
+	<stdio.h>
+	<iostream>
+	<conio.h>
+	<cstring>
+	"listavehi.h"
+
+1478218909 c:\users\user\desktop\tpjuan\listavehi.h
+
+1478206809 source:c:\users\user\desktop\tpjuan\listachofer.cpp
+	<stdio.h>
+	<iostream>
+	<conio.h>
+	<cstring>
+	"listachofer.h"
+	"listavehi.h"
+
+1478206809 c:\users\user\desktop\tpjuan\listachofer.h
+	"listavehi.h"
+
+1478219349 source:c:\users\user\desktop\tpjuan\main.cpp
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	<cstring>
+	"listaChofer.h"
+	"listaviajes.h"
+
+1478217896 source:c:\users\user\desktop\tpjuan\listaviajes.cpp
+	<stdio.h>
+	<iostream>
+	<conio.h>
+	<cstring>
+	"listaviajes.h"
+	"listafecha.h"
+
+1478217890 c:\users\user\desktop\tpjuan\listaviajes.h
+	"listafecha.h"
+
+1478218559 source:c:\users\user\desktop\tpjuan\listafecha.cpp
+	<stdio.h>
+	<iostream>
+	<conio.h>
+	<cstring>
+	"listafecha.h"
+
+1478218476 c:\users\user\desktop\tpjuan\listafecha.h
+
